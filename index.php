@@ -70,7 +70,7 @@
             <div class="section">
                 <h2>PMT API Endpoint</h2>
                 <hr/>
-                <p>Endpoint [POST]: <span class="bg-gray text-info">https://belal-bh.000webhost.com/api/get_pmt.php</span></p>
+                <p>Endpoint [POST]: <span class="bg-gray text-info">https://belal-bh.000webhostapp.com/api/get_pmt.php</span></p>
                 <?php
                     echo "";
                 ?>
