@@ -87,12 +87,15 @@
                     "PMT": 101.85000000000005
                 }
                 </pre>
-            </div>
-            <div class="section">
+            
                 <h2>PMT API Fetch in PHP</h2>
                 <hr/>
                 <div>
                     <script src="https://gist.github.com/belal-bh/5a50947facde5c1d23d96610a3e3f14a.js"></script>
+                </div>
+                <hr/>
+                <div>
+                    <p>GitHub Repository: <span><a target="_blank" href="https://github.com/belal-bh/pmt-api">https://github.com/belal-bh/pmt-api</a></span></p>
                 </div>
             </div>
         </div>
