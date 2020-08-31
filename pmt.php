@@ -1,7 +1,9 @@
 <?php
 
 // Endpoint URL
-$URL = 'https://belal-bh.000webhostapp.com/api/get_pmt.php';
+// $URL = 'https://belal-bh.000webhostapp.com/api/get_pmt.php';
+// When Local Host :DEV
+$URL = 'http://localhost/belal-bh/api/get_pmt.php';
 
 // Create POST Request data array
 $data = array(

@@ -81,10 +81,12 @@
                     "n": 5
                 }
                 </pre>
-                <p>Response will be json object with 'PMT' property which values is numeric. Example:</p>
+                <p>Response will be json object with 'PMT' property which values is numeric. If the response is succeed then the `status` will be `success` otherwise `failed`. Example:</p>
                 <pre>
                 {
-                    "PMT": 101.85000000000005
+                    "status": "success",
+                    "PMT": 101.85000000000005,
+                    "message": ""
                 }
                 </pre>
             
